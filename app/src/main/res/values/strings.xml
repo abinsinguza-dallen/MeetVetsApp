@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MeetVets</string>
+    <string name="don_t_have_an_accout_signup">Don\'t have an accout <u>SignUp</u></string>
+    <string-array name="Gender">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    <string-array name="farmertype">
+        <item>SmallHolder famer (3 to 15 animals)</item>
+        <item>Medium scale Famer (15 to 50 animals)</item>
+        <item>Large scale Famer (50 to any number of animals</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number_of_livestock">Number of livestock</string>
+    <string name="first_and_last_name">First and last name*</string>
+    <string name="regester_to_access_this_service">Regester to access this service</string>
+    <string name="hint">hint</string>
+    <string name="gender">Gender</string>
+    <string name="farmer_type">Farmer type</string>
+    <string name="regester">Regester</string>
+    <string name="enter_your_didstrict">enter your didstrict</string>
+    <string name="enter_cell_street_village">enter cell/street/village</string>
+    <string name="cows">cows</string>
+    <string name="goats">goats</string>
+    <string name="sheep">sheep</string>
+    <string name="pigs">pigs</string>
+</resources>
